@@ -1,2 +1,3 @@
-# .github
-Alexandria Chemistry
+# Welcome to the AlexandriaChemistry project!
+
+More coming soon.
