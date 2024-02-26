@@ -7,7 +7,7 @@ Information on the Alexandria Chemistry Toolkit and more applications thereof is
 
 + *Impact of Combination Rules, Level of Theory and Potential Function on the Modelling of Gas and Condensed Phase Properties of Noble Gases* Kristian Kriz, Paul J. van Maaren and David van der Spoel, Submitted to J. Chem. Theory Comput. 2023.
 
-+ *A potential for molecular simulation of compounds with linear moieties* David Van der Spoel, Henning Henschel, Paul J van Maaren, Mohammad M Ghahremanpour, Luciano T Costa, J. Chem. Phys. **153** (2020) Article number: 084503.
++ *A potential for molecular simulation of compounds with linear moieties* David Van der Spoel, Henning Henschel, Paul J van Maaren, Mohammad M Ghahremanpour, Luciano T Costa, J. Chem. Phys. **153** (2020) Article number: 084503. https://doi.org/10.1063/5.0015184 
 
 + *The Alexandria library, a quantum-chemical database of molecular properties for force field development* Mohammad M. Ghahremanpour, Paul J. van Maaren & David van der Spoel, Scientific Data **5** (2018) Article number: 180062, https://www.nature.com/articles/sdata201862 The library itself can be downloaded from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1170597.svg)](https://doi.org/10.5281/zenodo.1170597)
 
