@@ -6,7 +6,7 @@ Information on the Alexandria Chemistry Toolkit and more applications thereof is
 ### Development and methodology references
 + *Quantification of Anisotropy in Exchange and Dispersion Interactions: A Simple Model for Physics-Based Force Fields* Kristian Kriz and David van der Spoel, In revision, J. Phys. Chem. Letters
 
-+ *Impact of Combination Rules, Level of Theory and Potential Function on the Modelling of Gas and Condensed Phase Properties of Noble Gases* Kristian Kriz, Paul J. van Maaren and David van der Spoel, J. Chem. Theory Comput. **20** (2024) 2362−2376
++ *Impact of Combination Rules, Level of Theory and Potential Function on the Modelling of Gas and Condensed Phase Properties of Noble Gases* Kristian Kriz, Paul J. van Maaren and David van der Spoel, J. Chem. Theory Comput. **20** (2024) 2362−2376 https://doi.org/10.1021/acs.jctc.3c01257
 
 + *A potential for molecular simulation of compounds with linear moieties* David Van der Spoel, Henning Henschel, Paul J van Maaren, Mohammad M Ghahremanpour, Luciano T Costa, J. Chem. Phys. **153** (2020) Article number: 084503. https://doi.org/10.1063/5.0015184 
 
