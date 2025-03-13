@@ -5,7 +5,7 @@ Information on the Alexandria Chemistry Toolkit and more applications thereof is
 + The Alexandria Chemistry Toolkit User & Reference Manual is now online at [Zenodo](https://zenodo.org/records/15020366)
 
 ### Development and methodology references
-+ *Quantitative Evaluation of Anharmonic Bond Potentials for Molecular Simulations* Paul J. van Maaren and David van der Spoel, Digital Discovery **4** (2025) https://doi.org/10.1039/D4DD00344F. See [repository](https://github.com/AlexandriaChemistry/BondPotentials)
++ *Quantitative Evaluation of Anharmonic Bond Potentials for Molecular Simulations* Paul J. van Maaren and David van der Spoel, Digital Discovery **4** (2025) 824–830 https://doi.org/10.1039/D4DD00344F. See [repository](https://github.com/AlexandriaChemistry/BondPotentials)
   
 + *Quantification of Anisotropy in Exchange and Dispersion Interactions: A Simple Model for Physics-Based Force Fields* Kristian Kriz and David van der Spoel, J. Phys. Chem. Letters **15** (2024) 9974–9978 https://doi.org/10.1021/acs.jpclett.4c02034
 
