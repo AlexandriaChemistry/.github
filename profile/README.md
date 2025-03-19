@@ -1,6 +1,6 @@
 ## Welcome to the Alexandria Chemistry project!
 
-+ The Alexandria Chemistry Toolkit has been released as free and open source 2025-03-19. Click on ACT to get more information.
++ The Alexandria Chemistry Toolkit has been released as free and open source 2025-03-19. [Click on ACT](https://github.com/AlexandriaChemistry/ACT) to get more information.
 + The Alexandria Chemistry Toolkit User & Reference Manual is now online at [Zenodo](https://zenodo.org/records/15020366)
 
 ### Development and methodology references
