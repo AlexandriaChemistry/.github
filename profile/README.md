@@ -18,7 +18,7 @@
 
 + *Phase-Transferable Force Field for Alkali Halides* Marie-Madeleine Walz, Mohammad M. Ghahremanpour, Paul J. van Maaren & David van der Spoel, J. Chem. Theory Comput. **14** (2018) 5933–5948, https://pubs.acs.org/doi/abs/10.1021/acs.jctc.8b00507
 
-### Applications of the Alexandria force field
+### Applications of Alexandria force fields
 
 + *Microscopic origins of conductivity in molten salts unraveled by computer simulations*
 Marie-Madeleine Walz and David van der Spoel, Commun. Chem. **4** (2021), 9, https://doi.org/10.1038/s42004-020-00446-2
