@@ -2,12 +2,12 @@
 
 + The Alexandria Chemistry Toolkit has been released as free and open source 2025-03-19. [Click on ACT](https://github.com/AlexandriaChemistry/ACT) to get more information.
 + The Alexandria Chemistry Toolkit User & Reference Manual is now online at [Zenodo](https://zenodo.org/records/15020366).
-+ The paper describing the ACT software is available at Digital Discovery **4** (2025) 1925-1935 [https://doi.org/10.1039/D5DD00178A](https://doi.org/10.1039/D5DD00178A).
++ The paper describing the ACT software is available at [Digital Discovery](https://doi.org/10.1039/D5DD00178A).
 
 ### Development and methodology references
-+ *Evolutionary machine learning of physics-based force fields in high-dimensional parameter-space* David van der Spoel, Julián Marrades, Kristian Kříž, A. Najla Hosseini, Alfred T. Nordman, João Paulo, Marie-Madeleine Walz, Paul J. van Maaren and Mohammad M. Ghahremanpour, Digital Discovery **4** (2025) 1925-1935, https://doi.org/10.1039/D5DD00178A 
++ *Evolutionary machine learning of physics-based force fields in high-dimensional parameter-space* David van der Spoel, Julián Marrades, Kristian Kříž, A. Najla Hosseini, Alfred T. Nordman, João Paulo, Marie-Madeleine Walz, Paul J. van Maaren and Mohammad M. Ghahremanpour, Digital Discovery **4** (2025) 1925-1935, https://doi.org/10.1039/D5DD00178A. See [repository](https://github.com/AlexandriaChemistry/Data/tree/main/ACT-Paper) 
 
-+ *Point+Gaussian Charge Model for Electrostatic Interactions Derived by Machine Learning* David van der Spoel and A. Najla Hosseini, Phys. Chem. Chem. Phys. 2025 https://doi.org/10.1039/D5CP01254F. See [repository](https://github.com/AlexandriaChemistry/Data/TholeGaussian)
++ *Point+Gaussian Charge Model for Electrostatic Interactions Derived by Machine Learning* David van der Spoel and A. Najla Hosseini, Phys. Chem. Chem. Phys. **27** (2025) 13817-13820 https://doi.org/10.1039/D5CP01254F. See [repository](https://github.com/AlexandriaChemistry/Data/TholeGaussian)
   
 + *Quantitative Evaluation of Anharmonic Bond Potentials for Molecular Simulations* Paul J. van Maaren and David van der Spoel, Digital Discovery **4** (2025) 824–830 https://doi.org/10.1039/D4DD00344F. See [repository](https://github.com/AlexandriaChemistry/BondPotentials)
   
