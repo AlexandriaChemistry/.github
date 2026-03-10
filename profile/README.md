@@ -5,6 +5,10 @@
 + The paper describing the ACT software is available at [Digital Discovery](https://doi.org/10.1039/D5DD00178A).
 
 ### Development and methodology references
++ *plotXVG: Batch Generation of Publication-Quality Graphs from GROMACS Output* Måns K. Rosenbaum and David van der Spoel, J. Chem. Inf. Model. **66** (2026) https://pubs.acs.org/doi/10.1021/acs.jcim.5c02998. See [repository](https://github.com/AlexandriaChemistry/plotXVG) 
+
++ *Beyond Partitioning: Using Force Field Science to Evaluate Electrostatics Models* A. Najla Hosseini, Kristian Kříž and David van der Spoel, J. Chem. Theory Comput. **22** (2026) https://pubs.acs.org/doi/10.1021/acs.jctc.6c00039. See [repository](https://github.com/AlexandriaChemistry/Data/tree/main/Electrostatics-ESP-ACT)
+ 
 + *Evolutionary machine learning of physics-based force fields in high-dimensional parameter-space* David van der Spoel, Julián Marrades, Kristian Kříž, A. Najla Hosseini, Alfred T. Nordman, João Paulo, Marie-Madeleine Walz, Paul J. van Maaren and Mohammad M. Ghahremanpour, Digital Discovery **4** (2025) 1925-1935, https://doi.org/10.1039/D5DD00178A. See [repository](https://github.com/AlexandriaChemistry/Data/tree/main/ACT-Paper) 
 
 + *Point+Gaussian Charge Model for Electrostatic Interactions Derived by Machine Learning* David van der Spoel and A. Najla Hosseini, Phys. Chem. Chem. Phys. **27** (2025) 13817-13820 https://doi.org/10.1039/D5CP01254F. See [repository](https://github.com/AlexandriaChemistry/Data/TholeGaussian)
